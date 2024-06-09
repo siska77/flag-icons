@@ -2396,5 +2396,47 @@
     "flag_4x3": "flags/4x3/zw.svg",
     "iso": true,
     "name": "Zimbabwe"
+  },
+  {
+    "code": "bi",
+    "flag_1x1": "flags/1x1/bi.svg",
+    "flag_4x3": "flags/4x3/bi.svg",
+    "iso": false,
+    "name": "Bi Pride"
+  },
+  {
+    "code": "gay",
+    "flag_1x1": "flags/1x1/gay.svg",
+    "flag_4x3": "flags/4x3/gay.svg",
+    "iso": false,
+    "name": "Gay Pride"
+  },
+  {
+    "code": "gay8",
+    "flag_1x1": "flags/1x1/gay-8.svg",
+    "flag_4x3": "flags/4x3/gay-8.svg",
+    "iso": false,
+    "name": "Gay Pride"
+  },
+  {
+    "code": "gay-new",
+    "flag_1x1": "flags/1x1/gay-new.svg",
+    "flag_4x3": "flags/4x3/gay-new.svg",
+    "iso": false,
+    "name": "New Gay Pride"
+  },
+  {
+    "code": "lgbtq",
+    "flag_1x1": "flags/1x1/lgbtq.svg",
+    "flag_4x3": "flags/4x3/lgbtq.svg",
+    "iso": false,
+    "name": "LGBTQ+ Pride"
+  },
+  {
+    "code": "tg",
+    "flag_1x1": "flags/1x1/tg.svg",
+    "flag_4x3": "flags/4x3/tg.svg",
+    "iso": false,
+    "name": "Transgender Pride"
   }
 ]
