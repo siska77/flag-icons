@@ -1906,3 +1906,45 @@
 .fi-xk.fis {
   background-image: url(../flags/1x1/xk.svg);
 }
+
+.fi-bi {
+  background-image: url(../flags/4x3/bi.svg);
+}
+.fi-bi.fis {
+  background-image: url(../flags/1x1/bi.svg);
+}
+
+.fi-gay {
+  background-image: url(../flags/4x3/gay.svg);
+}
+.fi-gay.fis {
+  background-image: url(../flags/1x1/gay.svg);
+}
+
+.fi-gay-8 {
+  background-image: url(../flags/4x3/gay-8.svg);
+}
+.fi-gay-8.fis {
+  background-image: url(../flags/1x1/gay-8.svg);
+}
+
+.fi-gay-new {
+  background-image: url(../flags/4x3/gay-new.svg);
+}
+.fi-gay-new.fis {
+  background-image: url(../flags/1x1/gay-new.svg);
+}
+
+.fi-lgbtq {
+  background-image: url(../flags/4x3/lgbtq.svg);
+}
+.fi-lgbtq.fis {
+  background-image: url(../flags/1x1/lgbtq.svg);
+}
+
+.fi-tg {
+  background-image: url(../flags/4x3/tg.svg);
+}
+.fi-tg.fis {
+  background-image: url(../flags/1x1/tg.svg);
+}
